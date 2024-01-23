@@ -36,9 +36,6 @@ Welcome to our MERN stack-based E-Commerce platform. This project is a comprehen
 
 We welcome contributions! Feel free to open issues, submit pull requests, or suggest improvements.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
