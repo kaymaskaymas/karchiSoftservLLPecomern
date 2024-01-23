@@ -2,7 +2,8 @@ require('dotenv').config();
 
 const mongoose = require('mongoose');
 
-const connectionStr = `mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PW}@cluster0.xrzd0xl.mongodb.net/ecomern?retryWrites=true&w=majority`;
+const connectionStr = process.env.MONGO_API;
+
 //`
 mongoose.connect(connectionStr, {useNewUrlparser: true})
 .then(() => console.log('connected to mongodb'))
