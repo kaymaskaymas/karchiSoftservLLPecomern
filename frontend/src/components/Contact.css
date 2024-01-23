@@ -1,0 +1,23 @@
+/* Contact.css */
+
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+h2 {
+    margin: 40px 0; 
+}
+
+.contact-info {
+    text-align: left;
+    max-width: 400px;
+    margin-top: 20px;
+}
+
+.icon {
+    margin-right: 8px;
+    font-size: 18px;
+}
