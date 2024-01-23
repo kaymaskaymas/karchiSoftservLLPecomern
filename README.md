@@ -1,11 +1,9 @@
-# Karchi Softserv LLP ecomern
+# Karchi Softserv LLP MERN E-Commerce Platform
 MERN stack-based E-Commerce platform with user authentication, dynamic product listings, shopping cart, and streamlined checkout. Utilizes MongoDB Atlas, React for the frontend, and integrates Cloudinary for image storage and Stripe for payments.
-
-# MERN E-Commerce Platform
 
 ## Overview
 
-Welcome to our MERN stack-based E-Commerce platform. This project is a comprehensive solution for setting up and running an online store.
+Welcome to our MERN stack-based E-Commerce project for KarchiSoftserv LLP. This project is a comprehensive solution for setting up and running an online store.
 
 ## Features
 
@@ -27,7 +25,7 @@ Welcome to our MERN stack-based E-Commerce platform. This project is a comprehen
 
 ## Getting Started
 
-1. Clone the repository: `git clone [repository-url]`
+1. Clone the repository: `git clone https://github.com/kaymaskaymas/karchiSoftservLLPecomern.git`
 2. Install dependencies: `npm install` (for both `client` and `server` directories)
 3. Set up environment variables (details in `.env.example` files)
 4. Start the development server: `npm run dev` (in the root directory)
