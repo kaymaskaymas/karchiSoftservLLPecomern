@@ -3,7 +3,8 @@ MERN stack-based E-Commerce platform with user authentication, dynamic product l
 
 ## Overview
 
-Welcome to our MERN stack-based E-Commerce project for KarchiSoftserv LLP. This project is a comprehensive solution for setting up and running an online store.
+Welcome to our MERN stack-based E-Commerce project for KarchiSoftserv LLP. 
+This project is a comprehensive solution for setting up and running an online store.
 
 ## Features
 
