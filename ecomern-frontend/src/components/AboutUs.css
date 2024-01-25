@@ -1,0 +1,13 @@
+/* AboutUs.css */
+
+.about-us-container h2 {
+    margin-top: 0; /* Remove default top margin for better centering */
+    text-align: center; /* Center-align the h2 element */
+}
+
+.about-us-container {
+    width: 70%;
+    margin: 0 auto; /* Center-align the container */
+    text-align: justify; /* Justify text within the container */
+    padding: 20px; /* Add padding for better readability */
+}
